@@ -56,8 +56,8 @@ fn test_create_pair_with_same_assets() {
     // Set up the test environment
     let mut app = mock_app();
     
-    let owner = Addr::unchecked("owner");
-    let user = Addr::unchecked("user");
+    let owner =  app.api().addr_make("owner");
+    let user = app.api().addr_make("user");
     
     // Store contract codes
     let factory_code_id = store_factory_code(&mut app);
