@@ -22,3 +22,5 @@ protobuf = { version ="3.5.0", features = ["with-bytes"] }
 [dev-dependencies]
 cosmwasm-schema = "2.0.4"
 dvamm-pair = {path = "../pair"}
+cw20-base = "2.0.0"
+cw-multi-test = { workspace = true }

@@ -1,0 +1,13 @@
+/Users/ben/Desktop/Projects/HalbornCTFs/NewCTFs/CTFs/HalbornCTF_Rust_CosmWasm/dvamm/target/debug/deps/libcw20_base-3b2d352753982338.rmeta: /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/lib.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/allowances.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/contract.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/enumerable.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/error.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/msg.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/state.rs
+
+/Users/ben/Desktop/Projects/HalbornCTFs/NewCTFs/CTFs/HalbornCTF_Rust_CosmWasm/dvamm/target/debug/deps/cw20_base-3b2d352753982338.d: /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/lib.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/allowances.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/contract.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/enumerable.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/error.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/msg.rs /Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/state.rs
+
+/Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/lib.rs:
+/Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/allowances.rs:
+/Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/contract.rs:
+/Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/enumerable.rs:
+/Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/error.rs:
+/Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/msg.rs:
+/Users/ben/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cw20-base-2.0.0/src/state.rs:
+
+# env-dep:CARGO_PKG_VERSION=2.0.0
